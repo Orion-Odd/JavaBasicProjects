@@ -40,4 +40,3 @@ public class Practical1
         System.out.println(c1.toString());
     }
 }
- 
